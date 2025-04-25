@@ -1,6 +1,6 @@
 # Gender Gap in STEM & Education 📊
 
-This data analysis project explores disparities in tertiary education access and representation in STEM (Science, technology, engineering, and mathematics) fields across different countries. Special attention is given to how participation varies by gender identity (in this case, male or female).
+This data analysis project explores disparities in tertiary education access and representation in STEM (Science, technology, engineering, and mathematics) fields across different countries. Special attention is given to how participation varies by male and female.
 
 ## 🔍 Overview
 
