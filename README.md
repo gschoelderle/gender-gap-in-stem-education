@@ -1,6 +1,6 @@
 # Gender Gap in STEM & Education 📊
 
-This data analysis project explores disparities in tertiary education access and representation in STEM (Science, technology, engineering, and mathematics) fields across different countries. Special attention is given to how participation varies by male and female.
+This data analysis project explores disparities in tertiary education access and representation in STEM (Science, technology, engineering, and mathematics) fields across different countries. Special attention is given to how participation varies by gender.
 
 ## 🔍 Overview
 
@@ -36,6 +36,19 @@ Full code available in education_gender_data.py
 
 ```
 
+## 📁 Dataset Files
+
+These CSV files were generated and used during the data processing phase with Python:
+
+- `education_gender_data.csv`: Raw dataset including gender participation in STEM fields and education spending per country.
+- `output_stem_gap.csv`: Processed data showing the difference in STEM participation between men and women.
+- `output_tertiary_gap.csv`: Tertiary enrollment rates by gender with calculated gender advantage per country.
+- `output_edu_spending.csv`: National public expenditure on education as a percentage of GDP.
+- `output_tertiary_advantage_count.csv`: Summary count of countries where tertiary enrollment is higher for a given gender.
+
+These files were analyzed and transformed with pandas and then visualized using Tableau Public.
+
+
 ## 📊 Interactive Dashboard
 
 > **View preview**  
@@ -47,7 +60,7 @@ Full code available in education_gender_data.py
 ## 🧾 Credits
 
 - Background map design: Pradeep Kumar G ([Twitter](https://x.com/pradeep_zen))
-- Icons: flaticon.com  
+- Icons: [Flaticon by Freepik](https://www.flaticon.com/) 
 - Flags: [Circle Flags](https://hatscripts.github.io/circle-flags/gallery)
 
 ## 🧠 Key Insight
